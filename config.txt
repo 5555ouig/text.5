@@ -1,6 +1,6 @@
-token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
-prefix= هنا البرفكس حق بوتك
-game= هنا حط الكلام الي يجي في البلاينج
-stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
-songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
+token=NTYwNDMxNDk0NDEwMTQxNzA5.D3z2Bg.U4gqF44lsmU0HY8WIz6CeBl5o90
+owner=526947416658935810 
+prefix=5
+game=Sh5b6h The Best
+stayinchannel=true 
+songinstatus=false
